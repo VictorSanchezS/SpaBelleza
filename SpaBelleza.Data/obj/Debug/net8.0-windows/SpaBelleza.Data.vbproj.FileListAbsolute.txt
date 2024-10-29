@@ -1,0 +1,15 @@
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.AssemblyInfo.vb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\bin\Debug\net8.0-windows\SpaBelleza.Data.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\bin\Debug\net8.0-windows\SpaBelleza.Data.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\bin\Debug\net8.0-windows\SpaBelleza.Data.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\bin\Debug\net8.0-windows\SpaBelleza.Entities.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\bin\Debug\net8.0-windows\SpaBelleza.Entities.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelle.83A07ABA.Up2Date
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\refint\SpaBelleza.Data.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\SpaBelleza.Data.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Data\obj\Debug\net8.0-windows\ref\SpaBelleza.Data.dll

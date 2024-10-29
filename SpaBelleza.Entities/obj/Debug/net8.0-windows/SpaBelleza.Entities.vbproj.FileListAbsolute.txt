@@ -1,0 +1,11 @@
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\bin\Debug\net8.0-windows\SpaBelleza.Entities.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\bin\Debug\net8.0-windows\SpaBelleza.Entities.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\bin\Debug\net8.0-windows\SpaBelleza.Entities.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\SpaBelleza.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\SpaBelleza.Entities.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\SpaBelleza.Entities.AssemblyInfo.vb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\SpaBelleza.Entities.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\SpaBelleza.Entities.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\refint\SpaBelleza.Entities.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\SpaBelleza.Entities.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Entities\obj\Debug\net8.0-windows\ref\SpaBelleza.Entities.dll

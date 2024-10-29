@@ -1,0 +1,17 @@
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Business.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Business.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Business.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Data.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Entities.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Data.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\bin\Debug\net8.0-windows\SpaBelleza.Entities.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.AssemblyInfo.vb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelle.B734D87A.Up2Date
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\refint\SpaBelleza.Business.dll
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\SpaBelleza.Business.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Ciclo 2024 - II\TLP\Unidad 1\PA1\SpaBelleza\SpaBelleza.Business\obj\Debug\net8.0-windows\ref\SpaBelleza.Business.dll

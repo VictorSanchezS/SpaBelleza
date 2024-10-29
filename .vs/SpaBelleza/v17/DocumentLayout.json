@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\citas\\citamanagementform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\citas\\citamanagementform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\citas\\citamanagementform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\citas\\citamanagementform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\citas\\citaeditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\citas\\citaeditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\citas\\citacreateform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\citas\\citacreateform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\citas\\citaeditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\citas\\citaeditform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.interfaces\\icitarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.interfaces\\icitarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\citas\\citacreateform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\citas\\citacreateform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.business\\estadocitaservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|solutionrelative:spabelleza.business\\estadocitaservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.business\\trabajadorservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|solutionrelative:spabelleza.business\\trabajadorservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.business\\clienteservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|solutionrelative:spabelleza.business\\clienteservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.ui\\spabelleza.ui.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A46DAB8D-DCBE-43BB-A5D4-F6AAEF5E7B45}|SpaBelleza.UI\\SpaBelleza.UI.vbproj|solutionrelative:spabelleza.ui\\spabelleza.ui.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.repositories\\clienterepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.repositories\\clienterepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.interfaces\\iclienterepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.interfaces\\iclienterepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.repositories\\estadocitarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.repositories\\estadocitarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.repositories\\trabajadorrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.repositories\\trabajadorrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.interfaces\\iestadocitarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.interfaces\\iestadocitarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.entities\\estadocita.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|solutionrelative:spabelleza.entities\\estadocita.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.interfaces\\itrabajadorrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.interfaces\\itrabajadorrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.entities\\trabajador.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|solutionrelative:spabelleza.entities\\trabajador.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.business\\citaservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7A748EDA-84FA-4F57-9EA7-C79B3C1F5B4E}|SpaBelleza.Business\\SpaBelleza.Business.vbproj|solutionrelative:spabelleza.business\\citaservice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\spabelleza.data.repositories\\citarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\spabelleza.data.repositories\\citarepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.entities\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|solutionrelative:spabelleza.entities\\cliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.entities\\cita.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B6E748F1-3C08-4314-9CC4-39AB7845865E}|SpaBelleza.Entities\\SpaBelleza.Entities.vbproj|solutionrelative:spabelleza.entities\\cita.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|c:\\users\\usuario\\onedrive\\desktop\\ciclo 2024 - ii\\tlp\\unidad 1\\pa1\\spabelleza\\spabelleza.data\\conexiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{ECE9ED45-AEE4-4F42-A741-113CE92BB749}|SpaBelleza.Data\\SpaBelleza.Data.vbproj|solutionrelative:spabelleza.data\\conexiondb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CitaEditForm.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaEditForm.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\Citas\\CitaEditForm.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaEditForm.vb",
+              "RelativeToolTip": "SpaBelleza.UI\\Citas\\CitaEditForm.vb",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T17:24:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitaCreateForm.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaCreateForm.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\Citas\\CitaCreateForm.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaCreateForm.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SpaBelleza.UI\\Citas\\CitaCreateForm.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:35:09.833Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitaManagementForm.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaManagementForm.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\Citas\\CitaManagementForm.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaManagementForm.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SpaBelleza.UI\\Citas\\CitaManagementForm.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:23:08.918Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitaManagementForm.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaManagementForm.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\Citas\\CitaManagementForm.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaManagementForm.vb",
+              "RelativeToolTip": "SpaBelleza.UI\\Citas\\CitaManagementForm.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwFkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:25:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitaEditForm.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaEditForm.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\Citas\\CitaEditForm.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaEditForm.vb [Dise\u00F1o]",
+              "RelativeToolTip": "SpaBelleza.UI\\Citas\\CitaEditForm.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:35:45.504Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICitaRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ICitaRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ICitaRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ICitaRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ICitaRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T15:48:15.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitaCreateForm.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaCreateForm.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\Citas\\CitaCreateForm.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\Citas\\CitaCreateForm.vb",
+              "RelativeToolTip": "SpaBelleza.UI\\Citas\\CitaCreateForm.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:47:42.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrabajadorService.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\TrabajadorService.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Business\\TrabajadorService.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\TrabajadorService.vb",
+              "RelativeToolTip": "SpaBelleza.Business\\TrabajadorService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T17:00:36.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoCitaService.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\EstadoCitaService.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Business\\EstadoCitaService.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\EstadoCitaService.vb",
+              "RelativeToolTip": "SpaBelleza.Business\\EstadoCitaService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T17:06:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\ClienteRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\ClienteRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\ClienteRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\ClienteRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:52:35.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteService.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\ClienteService.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Business\\ClienteService.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\ClienteService.vb",
+              "RelativeToolTip": "SpaBelleza.Business\\ClienteService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:53:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpaBelleza.UI",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\SpaBelleza.UI.vbproj",
+              "RelativeDocumentMoniker": "SpaBelleza.UI\\SpaBelleza.UI.vbproj",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.UI\\SpaBelleza.UI.vbproj",
+              "RelativeToolTip": "SpaBelleza.UI\\SpaBelleza.UI.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-29T17:18:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClienteRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IClienteRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IClienteRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IClienteRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IClienteRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:51:47.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEstadoCitaRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IEstadoCitaRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IEstadoCitaRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IEstadoCitaRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\IEstadoCitaRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T17:03:57.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrabajadorRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\TrabajadorRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\TrabajadorRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\TrabajadorRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\TrabajadorRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:58:54.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstadoCitaRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\EstadoCitaRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\EstadoCitaRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\EstadoCitaRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\EstadoCitaRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T17:05:34.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EstadoCita.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\EstadoCita.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Entities\\EstadoCita.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\EstadoCita.vb",
+              "RelativeToolTip": "SpaBelleza.Entities\\EstadoCita.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T17:02:37.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITrabajadorRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ITrabajadorRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ITrabajadorRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ITrabajadorRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Interfaces\\ITrabajadorRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:58:14.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Trabajador.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\Trabajador.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Entities\\Trabajador.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\Trabajador.vb",
+              "RelativeToolTip": "SpaBelleza.Entities\\Trabajador.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:56:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SpaBelleza.Data",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.vbproj",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.vbproj",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.vbproj",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-29T15:54:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cliente.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\Cliente.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Entities\\Cliente.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\Cliente.vb",
+              "RelativeToolTip": "SpaBelleza.Entities\\Cliente.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:50:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CitaService.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\CitaService.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Business\\CitaService.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Business\\CitaService.vb",
+              "RelativeToolTip": "SpaBelleza.Business\\CitaService.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T16:17:53.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CitaRepository.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\CitaRepository.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\CitaRepository.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\SpaBelleza.Data.Repositories\\CitaRepository.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\SpaBelleza.Data.Repositories\\CitaRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T15:55:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cita.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\Cita.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Entities\\Cita.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Entities\\Cita.vb",
+              "RelativeToolTip": "SpaBelleza.Entities\\Cita.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T15:58:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConexionDB.vb",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\ConexionDB.vb",
+              "RelativeDocumentMoniker": "SpaBelleza.Data\\ConexionDB.vb",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Ciclo 2024 - II\\TLP\\Unidad 1\\PA1\\SpaBelleza\\SpaBelleza.Data\\ConexionDB.vb",
+              "RelativeToolTip": "SpaBelleza.Data\\ConexionDB.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T15:56:18.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
